@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Quran Metadata
+  Source: Tanzil.net (https://tanzil.net)
+  License: Creative Commons Attribution 3.0
+-->
+<quran>
+  <suras>
+    <sura index="1" ayas="7" start="0" name="الفاتحة" tname="Al-Faatiha" ename="The Opening" type="Meccan" order="5" rukus="1" />
+    <sura index="2" ayas="286" start="7" name="البقرة" tname="Al-Baqara" ename="The Cow" type="Medinan" order="87" rukus="40" />
+    <sura index="3" ayas="200" start="293" name="آل عمران" tname="Aal-i-Imraan" ename="The Family of Imraan" type="Medinan" order="89" rukus="20" />
+    <sura index="4" ayas="176" start="493" name="النساء" tname="An-Nisaa" ename="The Women" type="Medinan" order="92" rukus="24" />
+    <sura index="5" ayas="120" start="669" name="المائدة" tname="Al-Maaida" ename="The Table" type="Medinan" order="112" rukus="16" />
+    <sura index="6" ayas="165" start="789" name="الأنعام" tname="Al-An'aam" ename="The Cattle" type="Meccan" order="55" rukus="20" />
+    <sura index="7" ayas="206" start="954" name="الأعراف" tname="Al-A'raaf" ename="The Heights" type="Meccan" order="39" rukus="24" />
+    <sura index="8" ayas="75" start="1160" name="الأنفال" tname="Al-Anfaal" ename="The Spoils of War" type="Medinan" order="88" rukus="10" />
+    <sura index="9" ayas="129" start="1235" name="التوبة" tname="At-Tawba" ename="The Repentance" type="Medinan" order="113" rukus="16" />
+    <sura index="10" ayas="109" start="1364" name="يونس" tname="Yunus" ename="Jonas" type="Meccan" order="51" rukus="11" />
+    <sura index="11" ayas="123" start="1473" name="هود" tname="Hud" ename="Hud" type="Meccan" order="52" rukus="10" />
+    <sura index="12" ayas="111" start="1596" name="يوسف" tname="Yusuf" ename="Joseph" type="Meccan" order="53" rukus="12" />
+    <sura index="13" ayas="43" start="1707" name="الرعد" tname="Ar-Ra'd" ename="The Thunder" type="Medinan" order="96" rukus="6" />
+    <sura index="14" ayas="52" start="1750" name="ابراهيم" tname="Ibrahim" ename="Abraham" type="Meccan" order="72" rukus="7" />
+    <sura index="15" ayas="99" start="1802" name="الحجر" tname="Al-Hijr" ename="The Rock" type="Meccan" order="54" rukus="6" />
+    <sura index="16" ayas="128" start="1901" name="النحل" tname="An-Nahl" ename="The Bee" type="Meccan" order="70" rukus="16" />
+    <sura index="17" ayas="111" start="2029" name="الإسراء" tname="Al-Israa" ename="The Night Journey" type="Meccan" order="50" rukus="12" />
+    <sura index="18" ayas="110" start="2140" name="الكهف" tname="Al-Kahf" ename="The Cave" type="Meccan" order="69" rukus="12" />
+    <sura index="19" ayas="98" start="2250" name="مريم" tname="Maryam" ename="Mary" type="Meccan" order="44" rukus="6" />
+    <sura index="20" ayas="135" start="2348" name="طه" tname="Taa-Haa" ename="Taa-Haa" type="Meccan" order="45" rukus="8" />
+    <sura index="21" ayas="112" start="2483" name="الأنبياء" tname="Al-Anbiyaa" ename="The Prophets" type="Meccan" order="73" rukus="7" />
+    <sura index="22" ayas="78" start="2595" name="الحج" tname="Al-Hajj" ename="The Pilgrimage" type="Medinan" order="103" rukus="10" />
+    <sura index="23" ayas="118" start="2673" name="المؤمنون" tname="Al-Muminoon" ename="The Believers" type="Meccan" order="74" rukus="6" />
+    <sura index="24" ayas="64" start="2791" name="النور" tname="An-Noor" ename="The Light" type="Medinan" order="102" rukus="9" />
+    <sura index="25" ayas="77" start="2855" name="الفرقان" tname="Al-Furqaan" ename="The Criterion" type="Meccan" order="42" rukus="6" />
+    <sura index="26" ayas="227" start="2932" name="الشعراء" tname="Ash-Shu'araa" ename="The Poets" type="Meccan" order="47" rukus="11" />
+    <sura index="27" ayas="93" start="3159" name="النمل" tname="An-Naml" ename="The Ant" type="Meccan" order="48" rukus="7" />
+    <sura index="28" ayas="88" start="3252" name="القصص" tname="Al-Qasas" ename="The Stories" type="Meccan" order="49" rukus="8" />
+    <sura index="29" ayas="69" start="3340" name="العنكبوت" tname="Al-Ankaboot" ename="The Spider" type="Meccan" order="85" rukus="7" />
+    <sura index="30" ayas="60" start="3409" name="الروم" tname="Ar-Room" ename="The Romans" type="Meccan" order="84" rukus="6" />
+    <sura index="31" ayas="34" start="3469" name="لقمان" tname="Luqman" ename="Luqman" type="Meccan" order="57" rukus="3" />
+    <sura index="32" ayas="30" start="3503" name="السجدة" tname="As-Sajda" ename="The Prostration" type="Meccan" order="75" rukus="3" />
+    <sura index="33" ayas="73" start="3533" name="الأحزاب" tname="Al-Ahzaab" ename="The Clans" type="Medinan" order="90" rukus="9" />
+    <sura index="34" ayas="54" start="3606" name="سبإ" tname="Saba" ename="Sheba" type="Meccan" order="58" rukus="6" />
+    <sura index="35" ayas="45" start="3660" name="فاطر" tname="Faatir" ename="The Originator" type="Meccan" order="43" rukus="5" />
+    <sura index="36" ayas="83" start="3705" name="يس" tname="Yaseen" ename="Yaseen" type="Meccan" order="41" rukus="5" />
+    <sura index="37" ayas="182" start="3788" name="الصافات" tname="As-Saaffaat" ename="Those drawn up in Ranks" type="Meccan" order="56" rukus="5" />
+    <sura index="38" ayas="88" start="3970" name="ص" tname="Saad" ename="The letter Saad" type="Meccan" order="38" rukus="5" />
+    <sura index="39" ayas="75" start="4058" name="الزمر" tname="Az-Zumar" ename="The Groups" type="Meccan" order="59" rukus="8" />
+    <sura index="40" ayas="85" start="4133" name="غافر" tname="Al-Ghaafir" ename="The Forgiver" type="Meccan" order="60" rukus="9" />
+    <sura index="41" ayas="54" start="4218" name="فصلت" tname="Fussilat" ename="Explained in detail" type="Meccan" order="61" rukus="6" />
+    <sura index="42" ayas="53" start="4272" name="الشورى" tname="Ash-Shura" ename="Consultation" type="Meccan" order="62" rukus="5" />
+    <sura index="43" ayas="89" start="4325" name="الزخرف" tname="Az-Zukhruf" ename="Ornaments of gold" type="Meccan" order="63" rukus="7" />
+    <sura index="44" ayas="59" start="4414" name="الدخان" tname="Ad-Dukhaan" ename="The Smoke" type="Meccan" order="64" rukus="3" />
+    <sura index="45" ayas="37" start="4473" name="الجاثية" tname="Al-Jaathiya" ename="Crouching" type="Meccan" order="65" rukus="4" />
+    <sura index="46" ayas="35" start="4510" name="الأحقاف" tname="Al-Ahqaf" ename="The Dunes" type="Meccan" order="66" rukus="4" />
+    <sura index="47" ayas="38" start="4545" name="محمد" tname="Muhammad" ename="Muhammad" type="Medinan" order="95" rukus="4" />
+    <sura index="48" ayas="29" start="4583" name="الفتح" tname="Al-Fath" ename="The Victory" type="Medinan" order="111" rukus="4" />
+    <sura index="49" ayas="18" start="4612" name="الحجرات" tname="Al-Hujuraat" ename="The Inner Apartments" type="Medinan" order="106" rukus="2" />
+    <sura index="50" ayas="45" start="4630" name="ق" tname="Qaaf" ename="The letter Qaaf" type="Meccan" order="34" rukus="3" />
+    <sura index="51" ayas="60" start="4675" name="الذاريات" tname="Adh-Dhaariyat" ename="The Winnowing Winds" type="Meccan" order="67" rukus="3" />
+    <sura index="52" ayas="49" start="4735" name="الطور" tname="At-Tur" ename="The Mount" type="Meccan" order="76" rukus="2" />
+    <sura index="53" ayas="62" start="4784" name="النجم" tname="An-Najm" ename="The Star" type="Meccan" order="23" rukus="3" />
+    <sura index="54" ayas="55" start="4846" name="القمر" tname="Al-Qamar" ename="The Moon" type="Meccan" order="37" rukus="3" />
+    <sura index="55" ayas="78" start="4901" name="الرحمن" tname="Ar-Rahmaan" ename="The Beneficent" type="Medinan" order="97" rukus="3" />
+    <sura index="56" ayas="96" start="4979" name="الواقعة" tname="Al-Waaqia" ename="The Inevitable" type="Meccan" order="46" rukus="3" />
+    <sura index="57" ayas="29" start="5075" name="الحديد" tname="Al-Hadid" ename="The Iron" type="Medinan" order="94" rukus="4" />
+    <sura index="58" ayas="22" start="5104" name="المجادلة" tname="Al-Mujaadila" ename="The Pleading Woman" type="Medinan" order="105" rukus="3" />
+    <sura index="59" ayas="24" start="5126" name="الحشر" tname="Al-Hashr" ename="The Exile" type="Medinan" order="101" rukus="3" />
+    <sura index="60" ayas="13" start="5150" name="الممتحنة" tname="Al-Mumtahana" ename="She that is to be examined" type="Medinan" order="91" rukus="2" />
+    <sura index="61" ayas="14" start="5163" name="الصف" tname="As-Saff" ename="The Ranks" type="Medinan" order="109" rukus="2" />
+    <sura index="62" ayas="11" start="5177" name="الجمعة" tname="Al-Jumu'a" ename="Friday" type="Medinan" order="110" rukus="2" />
+    <sura index="63" ayas="11" start="5188" name="المنافقون" tname="Al-Munaafiqoon" ename="The Hypocrites" type="Medinan" order="104" rukus="2" />
+    <sura index="64" ayas="18" start="5199" name="التغابن" tname="At-Taghaabun" ename="Mutual Disillusion" type="Medinan" order="108" rukus="2" />
+    <sura index="65" ayas="12" start="5217" name="الطلاق" tname="At-Talaaq" ename="Divorce" type="Medinan" order="99" rukus="2" />
+    <sura index="66" ayas="12" start="5229" name="التحريم" tname="At-Tahrim" ename="The Prohibition" type="Medinan" order="107" rukus="2" />
+    <sura index="67" ayas="30" start="5241" name="الملك" tname="Al-Mulk" ename="The Sovereignty" type="Meccan" order="77" rukus="2" />
+    <sura index="68" ayas="52" start="5271" name="القلم" tname="Al-Qalam" ename="The Pen" type="Meccan" order="2" rukus="2" />
+    <sura index="69" ayas="52" start="5323" name="الحاقة" tname="Al-Haaqqa" ename="The Reality" type="Meccan" order="78" rukus="2" />
+    <sura index="70" ayas="44" start="5375" name="المعارج" tname="Al-Ma'aarij" ename="The Ascending Stairways" type="Meccan" order="79" rukus="2" />
+    <sura index="71" ayas="28" start="5419" name="نوح" tname="Nooh" ename="Noah" type="Meccan" order="71" rukus="2" />
+    <sura index="72" ayas="28" start="5447" name="الجن" tname="Al-Jinn" ename="The Jinn" type="Meccan" order="40" rukus="2" />
+    <sura index="73" ayas="20" start="5475" name="المزمل" tname="Al-Muzzammil" ename="The Enshrouded One" type="Meccan" order="3" rukus="2" />
+    <sura index="74" ayas="56" start="5495" name="المدثر" tname="Al-Muddaththir" ename="The Cloaked One" type="Meccan" order="4" rukus="2" />
+    <sura index="75" ayas="40" start="5551" name="القيامة" tname="Al-Qiyaama" ename="The Resurrection" type="Meccan" order="31" rukus="2" />
+    <sura index="76" ayas="31" start="5591" name="الانسان" tname="Al-Insaan" ename="Man" type="Medinan" order="98" rukus="2" />
+    <sura index="77" ayas="50" start="5622" name="المرسلات" tname="Al-Mursalaat" ename="The Emissaries" type="Meccan" order="33" rukus="2" />
+    <sura index="78" ayas="40" start="5672" name="النبإ" tname="An-Naba" ename="The Announcement" type="Meccan" order="80" rukus="2" />
+    <sura index="79" ayas="46" start="5712" name="النازعات" tname="An-Naazi'aat" ename="Those who drag forth" type="Meccan" order="81" rukus="2" />
+    <sura index="80" ayas="42" start="5758" name="عبس" tname="Abasa" ename="He frowned" type="Meccan" order="24" rukus="1" />
+    <sura index="81" ayas="29" start="5800" name="التكوير" tname="At-Takwir" ename="The Overthrowing" type="Meccan" order="7" rukus="1" />
+    <sura index="82" ayas="19" start="5829" name="الإنفطار" tname="Al-Infitaar" ename="The Cleaving" type="Meccan" order="82" rukus="1" />
+    <sura index="83" ayas="36" start="5848" name="المطففين" tname="Al-Mutaffifin" ename="Defrauding" type="Meccan" order="86" rukus="1" />
+    <sura index="84" ayas="25" start="5884" name="الإنشقاق" tname="Al-Inshiqaaq" ename="The Splitting Open" type="Meccan" order="83" rukus="1" />
+    <sura index="85" ayas="22" start="5909" name="البروج" tname="Al-Burooj" ename="The Constellations" type="Meccan" order="27" rukus="1" />
+    <sura index="86" ayas="17" start="5931" name="الطارق" tname="At-Taariq" ename="The Morning Star" type="Meccan" order="36" rukus="1" />
+    <sura index="87" ayas="19" start="5948" name="الأعلى" tname="Al-A'laa" ename="The Most High" type="Meccan" order="8" rukus="1" />
+    <sura index="88" ayas="26" start="5967" name="الغاشية" tname="Al-Ghaashiya" ename="The Overwhelming" type="Meccan" order="68" rukus="1" />
+    <sura index="89" ayas="30" start="5993" name="الفجر" tname="Al-Fajr" ename="The Dawn" type="Meccan" order="10" rukus="1" />
+    <sura index="90" ayas="20" start="6023" name="البلد" tname="Al-Balad" ename="The City" type="Meccan" order="35" rukus="1" />
+    <sura index="91" ayas="15" start="6043" name="الشمس" tname="Ash-Shams" ename="The Sun" type="Meccan" order="26" rukus="1" />
+    <sura index="92" ayas="21" start="6058" name="الليل" tname="Al-Lail" ename="The Night" type="Meccan" order="9" rukus="1" />
+    <sura index="93" ayas="11" start="6079" name="الضحى" tname="Ad-Dhuhaa" ename="The Morning Hours" type="Meccan" order="11" rukus="1" />
+    <sura index="94" ayas="8" start="6090" name="الشرح" tname="Ash-Sharh" ename="The Consolation" type="Meccan" order="12" rukus="1" />
+    <sura index="95" ayas="8" start="6098" name="التين" tname="At-Tin" ename="The Fig" type="Meccan" order="28" rukus="1" />
+    <sura index="96" ayas="19" start="6106" name="العلق" tname="Al-Alaq" ename="The Clot" type="Meccan" order="1" rukus="1" />
+    <sura index="97" ayas="5" start="6125" name="القدر" tname="Al-Qadr" ename="The Power, Fate" type="Meccan" order="25" rukus="1" />
+    <sura index="98" ayas="8" start="6130" name="البينة" tname="Al-Bayyina" ename="The Evidence" type="Medinan" order="100" rukus="1" />
+    <sura index="99" ayas="8" start="6138" name="الزلزلة" tname="Az-Zalzala" ename="The Earthquake" type="Medinan" order="93" rukus="1" />
+    <sura index="100" ayas="11" start="6146" name="العاديات" tname="Al-Aadiyaat" ename="The Chargers" type="Meccan" order="14" rukus="1" />
+    <sura index="101" ayas="11" start="6157" name="القارعة" tname="Al-Qaari'a" ename="The Calamity" type="Meccan" order="30" rukus="1" />
+    <sura index="102" ayas="8" start="6168" name="التكاثر" tname="At-Takaathur" ename="Competition" type="Meccan" order="16" rukus="1" />
+    <sura index="103" ayas="3" start="6176" name="العصر" tname="Al-Asr" ename="The Declining Day, Epoch" type="Meccan" order="13" rukus="1" />
+    <sura index="104" ayas="9" start="6179" name="الهمزة" tname="Al-Humaza" ename="The Traducer" type="Meccan" order="32" rukus="1" />
+    <sura index="105" ayas="5" start="6188" name="الفيل" tname="Al-Fil" ename="The Elephant" type="Meccan" order="19" rukus="1" />
+    <sura index="106" ayas="4" start="6193" name="قريش" tname="Quraish" ename="Quraysh" type="Meccan" order="29" rukus="1" />
+    <sura index="107" ayas="7" start="6197" name="الماعون" tname="Al-Maa'un" ename="Almsgiving" type="Meccan" order="17" rukus="1" />
+    <sura index="108" ayas="3" start="6204" name="الكوثر" tname="Al-Kawthar" ename="Abundance" type="Meccan" order="15" rukus="1" />
+    <sura index="109" ayas="6" start="6207" name="الكافرون" tname="Al-Kaafiroon" ename="The Disbelievers" type="Meccan" order="18" rukus="1" />
+    <sura index="110" ayas="3" start="6213" name="النصر" tname="An-Nasr" ename="Divine Support" type="Medinan" order="114" rukus="1" />
+    <sura index="111" ayas="5" start="6216" name="المسد" tname="Al-Masad" ename="The Palm Fibre" type="Meccan" order="6" rukus="1" />
+    <sura index="112" ayas="4" start="6221" name="الإخلاص" tname="Al-Ikhlaas" ename="Sincerity" type="Meccan" order="22" rukus="1" />
+    <sura index="113" ayas="5" start="6225" name="الفلق" tname="Al-Falaq" ename="The Dawn" type="Meccan" order="20" rukus="1" />
+    <sura index="114" ayas="6" start="6230" name="الناس" tname="An-Naas" ename="Mankind" type="Meccan" order="21" rukus="1" />
+  </suras>
+
+  <juzs>
+    <juz index="1" sura="1" aya="1" />
+    <juz index="2" sura="2" aya="142" />
+    <juz index="3" sura="2" aya="253" />
+    <juz index="4" sura="3" aya="93" />
+    <juz index="5" sura="4" aya="24" />
+    <juz index="6" sura="4" aya="148" />
+    <juz index="7" sura="5" aya="82" />
+    <juz index="8" sura="6" aya="111" />
+    <juz index="9" sura="7" aya="88" />
+    <juz index="10" sura="8" aya="41" />
+    <juz index="11" sura="9" aya="93" />
+    <juz index="12" sura="11" aya="6" />
+    <juz index="13" sura="12" aya="53" />
+    <juz index="14" sura="15" aya="1" />
+    <juz index="15" sura="17" aya="1" />
+    <juz index="16" sura="18" aya="75" />
+    <juz index="17" sura="21" aya="1" />
+    <juz index="18" sura="23" aya="1" />
+    <juz index="19" sura="25" aya="21" />
+    <juz index="20" sura="27" aya="56" />
+    <juz index="21" sura="29" aya="46" />
+    <juz index="22" sura="33" aya="31" />
+    <juz index="23" sura="36" aya="28" />
+    <juz index="24" sura="39" aya="32" />
+    <juz index="25" sura="41" aya="47" />
+    <juz index="26" sura="46" aya="1" />
+    <juz index="27" sura="51" aya="31" />
+    <juz index="28" sura="58" aya="1" />
+    <juz index="29" sura="67" aya="1" />
+    <juz index="30" sura="78" aya="1" />
+  </juzs>
+
+  <hizbs>
+    <quarter index="1" sura="1" aya="1" />
+    <quarter index="2" sura="2" aya="26" />
+    <quarter index="3" sura="2" aya="44" />
+    <quarter index="4" sura="2" aya="60" />
+    <quarter index="5" sura="2" aya="75" />
+    <quarter index="6" sura="2" aya="92" />
+    <quarter index="7" sura="2" aya="106" />
+    <quarter index="8" sura="2" aya="124" />
+    <quarter index="9" sura="2" aya="142" />
+    <quarter index="10" sura="2" aya="158" />
+    <quarter index="11" sura="2" aya="177" />
+    <quarter index="12" sura="2" aya="189" />
+    <quarter index="13" sura="2" aya="203" />
+    <quarter index="14" sura="2" aya="219" />
+    <quarter index="15" sura="2" aya="233" />
+    <quarter index="16" sura="2" aya="243" />
+    <quarter index="17" sura="2" aya="253" />
+    <quarter index="18" sura="2" aya="263" />
+    <quarter index="19" sura="2" aya="272" />
+    <quarter index="20" sura="2" aya="283" />
+    <quarter index="21" sura="3" aya="15" />
+    <quarter index="22" sura="3" aya="33" />
+    <quarter index="23" sura="3" aya="52" />
+    <quarter index="24" sura="3" aya="75" />
+    <quarter index="25" sura="3" aya="93" />
+    <quarter index="26" sura="3" aya="113" />
+    <quarter index="27" sura="3" aya="133" />
+    <quarter index="28" sura="3" aya="153" />
+    <quarter index="29" sura="3" aya="171" />
+    <quarter index="30" sura="3" aya="186" />
+    <quarter index="31" sura="4" aya="1" />
+    <quarter index="32" sura="4" aya="12" />
+    <quarter index="33" sura="4" aya="24" />
+    <quarter index="34" sura="4" aya="36" />
+    <quarter index="35" sura="4" aya="58" />
+    <quarter index="36" sura="4" aya="74" />
+    <quarter index="37" sura="4" aya="88" />
+    <quarter index="38" sura="4" aya="100" />
+    <quarter index="39" sura="4" aya="114" />
+    <quarter index="40" sura="4" aya="135" />
+    <quarter index="41" sura="4" aya="148" />
+    <quarter index="42" sura="4" aya="163" />
+    <quarter index="43" sura="5" aya="1" />
+    <quarter index="44" sura="5" aya="12" />
+    <quarter index="45" sura="5" aya="27" />
+    <quarter index="46" sura="5" aya="41" />
+    <quarter index="47" sura="5" aya="51" />
+    <quarter index="48" sura="5" aya="67" />
+    <quarter index="49" sura="5" aya="82" />
+    <quarter index="50" sura="5" aya="97" />
+    <quarter index="51" sura="5" aya="109" />
+    <quarter index="52" sura="6" aya="13" />
+    <quarter index="53" sura="6" aya="36" />
+    <quarter index="54" sura="6" aya="59" />
+    <quarter index="55" sura="6" aya="74" />
+    <quarter index="56" sura="6" aya="95" />
+    <quarter index="57" sura="6" aya="111" />
+    <quarter index="58" sura="6" aya="127" />
+    <quarter index="59" sura="6" aya="141" />
+    <quarter index="60" sura="6" aya="151" />
+    <quarter index="61" sura="7" aya="1" />
+    <quarter index="62" sura="7" aya="31" />
+    <quarter index="63" sura="7" aya="47" />
+    <quarter index="64" sura="7" aya="65" />
+    <quarter index="65" sura="7" aya="88" />
+    <quarter index="66" sura="7" aya="117" />
+    <quarter index="67" sura="7" aya="142" />
+    <quarter index="68" sura="7" aya="156" />
+    <quarter index="69" sura="7" aya="171" />
+    <quarter index="70" sura="7" aya="189" />
+    <quarter index="71" sura="8" aya="1" />
+    <quarter index="72" sura="8" aya="22" />
+    <quarter index="73" sura="8" aya="41" />
+    <quarter index="74" sura="8" aya="61" />
+    <quarter index="75" sura="9" aya="1" />
+    <quarter index="76" sura="9" aya="19" />
+    <quarter index="77" sura="9" aya="34" />
+    <quarter index="78" sura="9" aya="46" />
+    <quarter index="79" sura="9" aya="60" />
+    <quarter index="80" sura="9" aya="75" />
+    <quarter index="81" sura="9" aya="93" />
+    <quarter index="82" sura="9" aya="111" />
+    <quarter index="83" sura="9" aya="122" />
+    <quarter index="84" sura="10" aya="11" />
+    <quarter index="85" sura="10" aya="26" />
+    <quarter index="86" sura="10" aya="53" />
+    <quarter index="87" sura="10" aya="71" />
+    <quarter index="88" sura="10" aya="90" />
+    <quarter index="89" sura="11" aya="6" />
+    <quarter index="90" sura="11" aya="24" />
+    <quarter index="91" sura="11" aya="41" />
+    <quarter index="92" sura="11" aya="61" />
+    <quarter index="93" sura="11" aya="84" />
+    <quarter index="94" sura="11" aya="108" />
+    <quarter index="95" sura="12" aya="7" />
+    <quarter index="96" sura="12" aya="30" />
+    <quarter index="97" sura="12" aya="53" />
+    <quarter index="98" sura="12" aya="77" />
+    <quarter index="99" sura="12" aya="101" />
+    <quarter index="100" sura="13" aya="5" />
+    <quarter index="101" sura="13" aya="19" />
+    <quarter index="102" sura="13" aya="35" />
+    <quarter index="103" sura="14" aya="10" />
+    <quarter index="104" sura="14" aya="28" />
+    <quarter index="105" sura="15" aya="1" />
+    <quarter index="106" sura="15" aya="50" />
+    <quarter index="107" sura="16" aya="1" />
+    <quarter index="108" sura="16" aya="30" />
+    <quarter index="109" sura="16" aya="51" />
+    <quarter index="110" sura="16" aya="75" />
+    <quarter index="111" sura="16" aya="90" />
+    <quarter index="112" sura="16" aya="111" />
+    <quarter index="113" sura="17" aya="1" />
+    <quarter index="114" sura="17" aya="23" />
+    <quarter index="115" sura="17" aya="50" />
+    <quarter index="116" sura="17" aya="70" />
+    <quarter index="117" sura="17" aya="99" />
+    <quarter index="118" sura="18" aya="17" />
+    <quarter index="119" sura="18" aya="32" />
+    <quarter index="120" sura="18" aya="51" />
+    <quarter index="121" sura="18" aya="75" />
+    <quarter index="122" sura="18" aya="99" />
+    <quarter index="123" sura="19" aya="22" />
+    <quarter index="124" sura="19" aya="59" />
+    <quarter index="125" sura="20" aya="1" />
+    <quarter index="126" sura="20" aya="55" />
+    <quarter index="127" sura="20" aya="83" />
+    <quarter index="128" sura="20" aya="111" />
+    <quarter index="129" sura="21" aya="1" />
+    <quarter index="130" sura="21" aya="29" />
+    <quarter index="131" sura="21" aya="51" />
+    <quarter index="132" sura="21" aya="83" />
+    <quarter index="133" sura="22" aya="1" />
+    <quarter index="134" sura="22" aya="19" />
+    <quarter index="135" sura="22" aya="38" />
+    <quarter index="136" sura="22" aya="60" />
+    <quarter index="137" sura="23" aya="1" />
+    <quarter index="138" sura="23" aya="36" />
+    <quarter index="139" sura="23" aya="75" />
+    <quarter index="140" sura="24" aya="1" />
+    <quarter index="141" sura="24" aya="21" />
+    <quarter index="142" sura="24" aya="35" />
+    <quarter index="143" sura="24" aya="53" />
+    <quarter index="144" sura="25" aya="1" />
+    <quarter index="145" sura="25" aya="21" />
+    <quarter index="146" sura="25" aya="53" />
+    <quarter index="147" sura="26" aya="1" />
+    <quarter index="148" sura="26" aya="52" />
+    <quarter index="149" sura="26" aya="111" />
+    <quarter index="150" sura="26" aya="181" />
+    <quarter index="151" sura="27" aya="1" />
+    <quarter index="152" sura="27" aya="27" />
+    <quarter index="153" sura="27" aya="56" />
+    <quarter index="154" sura="27" aya="82" />
+    <quarter index="155" sura="28" aya="12" />
+    <quarter index="156" sura="28" aya="29" />
+    <quarter index="157" sura="28" aya="51" />
+    <quarter index="158" sura="28" aya="76" />
+    <quarter index="159" sura="29" aya="1" />
+    <quarter index="160" sura="29" aya="26" />
+    <quarter index="161" sura="29" aya="46" />
+    <quarter index="162" sura="30" aya="1" />
+    <quarter index="163" sura="30" aya="31" />
+    <quarter index="164" sura="30" aya="54" />
+    <quarter index="165" sura="31" aya="22" />
+    <quarter index="166" sura="32" aya="11" />
+    <quarter index="167" sura="33" aya="1" />
+    <quarter index="168" sura="33" aya="18" />
+    <quarter index="169" sura="33" aya="31" />
+    <quarter index="170" sura="33" aya="51" />
+    <quarter index="171" sura="33" aya="60" />
+    <quarter index="172" sura="34" aya="10" />
+    <quarter index="173" sura="34" aya="24" />
+    <quarter index="174" sura="34" aya="46" />
+    <quarter index="175" sura="35" aya="15" />
+    <quarter index="176" sura="35" aya="41" />
+    <quarter index="177" sura="36" aya="28" />
+    <quarter index="178" sura="36" aya="60" />
+    <quarter index="179" sura="37" aya="22" />
+    <quarter index="180" sura="37" aya="83" />
+    <quarter index="181" sura="37" aya="145" />
+    <quarter index="182" sura="38" aya="21" />
+    <quarter index="183" sura="38" aya="52" />
+    <quarter index="184" sura="39" aya="8" />
+    <quarter index="185" sura="39" aya="32" />
+    <quarter index="186" sura="39" aya="53" />
+    <quarter index="187" sura="40" aya="1" />
+    <quarter index="188" sura="40" aya="21" />
+    <quarter index="189" sura="40" aya="41" />
+    <quarter index="190" sura="40" aya="66" />
+    <quarter index="191" sura="41" aya="9" />
+    <quarter index="192" sura="41" aya="25" />
+    <quarter index="193" sura="41" aya="47" />
+    <quarter index="194" sura="42" aya="13" />
+    <quarter index="195" sura="42" aya="27" />
+    <quarter index="196" sura="42" aya="51" />
+    <quarter index="197" sura="43" aya="24" />
+    <quarter index="198" sura="43" aya="57" />
+    <quarter index="199" sura="44" aya="17" />
+    <quarter index="200" sura="45" aya="12" />
+    <quarter index="201" sura="46" aya="1" />
+    <quarter index="202" sura="46" aya="21" />
+    <quarter index="203" sura="47" aya="10" />
+    <quarter index="204" sura="47" aya="33" />
+    <quarter index="205" sura="48" aya="18" />
+    <quarter index="206" sura="49" aya="1" />
+    <quarter index="207" sura="49" aya="14" />
+    <quarter index="208" sura="50" aya="27" />
+    <quarter index="209" sura="51" aya="31" />
+    <quarter index="210" sura="52" aya="24" />
+    <quarter index="211" sura="53" aya="26" />
+    <quarter index="212" sura="54" aya="9" />
+    <quarter index="213" sura="55" aya="1" />
+    <quarter index="214" sura="56" aya="1" />
+    <quarter index="215" sura="56" aya="75" />
+    <quarter index="216" sura="57" aya="16" />
+    <quarter index="217" sura="58" aya="1" />
+    <quarter index="218" sura="58" aya="14" />
+    <quarter index="219" sura="59" aya="11" />
+    <quarter index="220" sura="60" aya="7" />
+    <quarter index="221" sura="62" aya="1" />
+    <quarter index="222" sura="63" aya="4" />
+    <quarter index="223" sura="65" aya="1" />
+    <quarter index="224" sura="66" aya="1" />
+    <quarter index="225" sura="67" aya="1" />
+    <quarter index="226" sura="68" aya="1" />
+    <quarter index="227" sura="69" aya="1" />
+    <quarter index="228" sura="70" aya="19" />
+    <quarter index="229" sura="72" aya="1" />
+    <quarter index="230" sura="73" aya="20" />
+    <quarter index="231" sura="75" aya="1" />
+    <quarter index="232" sura="76" aya="19" />
+    <quarter index="233" sura="78" aya="1" />
+    <quarter index="234" sura="80" aya="1" />
+    <quarter index="235" sura="82" aya="1" />
+    <quarter index="236" sura="84" aya="1" />
+    <quarter index="237" sura="87" aya="1" />
+    <quarter index="238" sura="90" aya="1" />
+    <quarter index="239" sura="94" aya="1" />
+    <quarter index="240" sura="100" aya="9" />
+  </hizbs>
+
+  <manzils>
+    <manzil index="1" sura="1" aya="1" />
+    <manzil index="2" sura="5" aya="1" />
+    <manzil index="3" sura="10" aya="1" />
+    <manzil index="4" sura="17" aya="1" />
+    <manzil index="5" sura="26" aya="1" />
+    <manzil index="6" sura="37" aya="1" />
+    <manzil index="7" sura="50" aya="1" />
+  </manzils>
+
+  <!-- Full ruku data (556 entries) available via download from Tanzil.net -->
+  <!-- Full page boundaries (604 pages) available in pages.json -->
+
+  <sajdas>
+    <sajda sura="7" aya="206" type="recommended" />
+    <sajda sura="13" aya="15" type="recommended" />
+    <sajda sura="16" aya="50" type="recommended" />
+    <sajda sura="17" aya="109" type="recommended" />
+    <sajda sura="19" aya="58" type="recommended" />
+    <sajda sura="22" aya="18" type="recommended" />
+    <sajda sura="22" aya="77" type="recommended" />
+    <sajda sura="25" aya="60" type="recommended" />
+    <sajda sura="27" aya="26" type="recommended" />
+    <sajda sura="32" aya="15" type="obligatory" />
+    <sajda sura="38" aya="24" type="recommended" />
+    <sajda sura="41" aya="38" type="obligatory" />
+    <sajda sura="53" aya="62" type="obligatory" />
+    <sajda sura="84" aya="21" type="recommended" />
+    <sajda sura="96" aya="19" type="obligatory" />
+  </sajdas>
+</quran>
